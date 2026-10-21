@@ -46,7 +46,7 @@ I'm early in my career and deliberately going deep on **backend engineering**, w
 
 ### 🚀 Featured project
 
-#### [RL-Powered CI/CD Pipeline Optimizer](https://github.com/YOUR-USERNAME/YOUR-REPO)
+#### [RL-Powered CI/CD Pipeline Optimizer](https://github.com/nealoswal/rl-cicd-optimizer)
 A production-style system that uses **Deep Q-Learning** to make smarter CI/CD pipeline decisions: built to be deployed, not just demoed.
 
 - **Backend:** FastAPI REST service with GitHub / GitLab webhook integration
