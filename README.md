@@ -74,7 +74,7 @@ A production-style system that uses **Deep Q-Learning** to make smarter CI/CD pi
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&hide_border=true&theme=transparent" height="160" alt="GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=nealoswal&show_icons=true&hide_border=true&theme=transparent" height="160" alt="GitHub stats"/>
 </p>
 
 <p align="center"><i>Building one service at a time. Thanks for stopping by!</i></p>
