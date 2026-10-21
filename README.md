@@ -11,7 +11,7 @@
 
 ### 🧭 About me
 
-I build the parts of software you don't see — APIs, data flows, and the systems that keep them running reliably.
+I build the parts of software you don't see - APIs, data flows, and the systems that keep them running reliably.
 I'm early in my career and deliberately going deep on **backend engineering**, with the long-term goal of becoming a **software architect** who designs systems that scale and stay maintainable.
 
 - 🔭 **Currently building:** REST APIs with **Java + Spring Boot**
@@ -47,7 +47,7 @@ I'm early in my career and deliberately going deep on **backend engineering**, w
 ### 🚀 Featured project
 
 #### [RL-Powered CI/CD Pipeline Optimizer](https://github.com/YOUR-USERNAME/YOUR-REPO)
-A production-style system that uses **Deep Q-Learning** to make smarter CI/CD pipeline decisions — built to be deployed, not just demoed.
+A production-style system that uses **Deep Q-Learning** to make smarter CI/CD pipeline decisions: built to be deployed, not just demoed.
 
 - **Backend:** FastAPI REST service with GitHub / GitLab webhook integration
 - **Core:** Dueling DQN with Prioritized Experience Replay, written in pure NumPy (no heavy ML framework)
@@ -57,7 +57,7 @@ A production-style system that uses **Deep Q-Learning** to make smarter CI/CD pi
 
 `Python` `FastAPI` `NumPy` `React` `Docker` `Prometheus` `Grafana`
 
-> 🧪 *More Java + Spring Boot projects coming soon — follow along as I build them.*
+> 🧪 *More Java + Spring Boot projects coming soon - follow along as I build them.*
 
 ---
 
